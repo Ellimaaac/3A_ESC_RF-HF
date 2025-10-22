@@ -23,12 +23,10 @@
 
 ## Design Non Linéaire
 
-* [Sujet du TP - Ampli de Puissance]()
 * [TP - Ampli Non Linéaire]()
 
 ## Design Linéaire
 
-* [Sujet du TP - LNA]()
 * [TP - LNA]()
 ## Projet Systeme
 
