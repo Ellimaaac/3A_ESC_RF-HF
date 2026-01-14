@@ -29,11 +29,11 @@ via l'API Groq (compatible OpenAI).
 
 ## Design Non Linéaire (18/20)
 
-* [TP - Ampli Non Linéaire]()
+* [TP - Ampli Non Linéaire](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Design_RF/LANFREDI_2025_ESC.pdf)
 
 ## Design Linéaire (16/20)
 
-* [TP - LNA]()
+* [TP - LNA](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Design_RF/Conception%20LNA%20-%20Camille%20LANFREDI.pdf)
 
 ## Projet Systeme
 
