@@ -15,10 +15,10 @@ via l'API Groq (compatible OpenAI).
 
 ## Composants RF (16.10/20)
 
-* [TP1 Mesures à l'analyseur de réseaux vectoriel]()
-* [TP2 Module linéaire d'un transistor bipolaire]()
-* [TP3 Mesure de facteur de bruit]()
-* [TP4 Extraction de schéma équivalent à partir de simulations électromagnétiques]()
+* [TP1 Mesures à l'analyseur de réseaux vectoriel](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Compo_RF/TP1_LANFREDI_JOSSERON.pdf)
+* [TP2 Module linéaire d'un transistor bipolaire](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Compo_RF/TP2_CompoRF_LANFREDI_JOSSERON.pdf)
+* [TP3 Mesure de facteur de bruit](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Compo_RF/TP3_CompoRF_LANFREDI_JOSSERON.pdf)
+* [TP4 Extraction de schéma équivalent à partir de simulations électromagnétiques](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Compo_RF/TP4_CompoRF_LANFREDI_JOSSERON.pdf)
 
 ## Systèmes de communication sans fil
 
