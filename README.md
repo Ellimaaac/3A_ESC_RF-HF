@@ -6,7 +6,7 @@
 (questions issues des quiz Moodle), avec une IA qui explique les réponses
 via l'API Groq (compatible OpenAI).
 
-## Antenne
+## Antenne (16.10/20)
 
 * [TP1 Analyseur de réseau et antenne quart d'onde](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Antennes/TP1_Antenne_LANFREDI_JOSSERON.pdf)
 * [TP2 Rédaction des antennes imprimées](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Antennes/TP2_ANTENNE_LANFREDI_JOSSERON.pdf)
