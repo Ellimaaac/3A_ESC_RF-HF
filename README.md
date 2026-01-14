@@ -41,4 +41,4 @@ via l'API Groq (compatible OpenAI).
 
 ## Projet Circuit
 
-* [Projet]()
+* [Projet disponible sur github](https://github.com/Ellimaaac/Antenne-imprimee-patch-a-balayage-electronique)
