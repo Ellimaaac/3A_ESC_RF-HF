@@ -22,10 +22,10 @@ via l'API Groq (compatible OpenAI).
 
 ## Systèmes de communication sans fil
 
-* [TP1 Caractérisation d'un récepteur FSK]()
-* [TP2 Influence des défauts d’un émetteur/récepteur]()
-* [TP3 Mesures et effets des non-linéarités d’un amplificateur]()
-* [TP4 Caractérisation et modélisation d’un amplificateur de puissance - Influence des défauts sur une transmission multiporteuses]()
+* [TP1 Caractérisation d'un récepteur FSK](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Syst%C3%A8mes%20de%20communication%20sans%20fil/ThemeA_LANFREDI_JOSSERON.pdf)
+* [TP2 Influence des défauts d’un émetteur/récepteur](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Syst%C3%A8mes%20de%20communication%20sans%20fil/ThemeB_LANFREDI_JOSSERON.pdf)
+* [TP3 Mesures et effets des non-linéarités d’un amplificateur](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Syst%C3%A8mes%20de%20communication%20sans%20fil/ThemeC_LANFREDI_JOSSERON.pdf)
+* [TP4 Caractérisation et modélisation d’un amplificateur de puissance - Influence des défauts sur une transmission multiporteuses](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Syst%C3%A8mes%20de%20communication%20sans%20fil/ThemeD_LANFREDI_JOSSERON.pdf)
 
 ## Design Non Linéaire (18/20)
 
