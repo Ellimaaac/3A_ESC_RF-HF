@@ -34,10 +34,6 @@
 
 * [TP - LNA](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Design_RF/Conception%20LNA%20-%20Camille%20LANFREDI.pdf)
 
-## Projet Systeme
-
-* [Projet]()
-
 ## Projet Circuit
 
 * [Projet disponible sur github](https://github.com/Ellimaaac/Antenne-imprimee-patch-a-balayage-electronique)
