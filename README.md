@@ -5,7 +5,7 @@
 - Application Streamlit pour réviser les cours de composants / semi-conducteurs
 (questions issues des quiz Moodle), avec une IA qui explique les réponses
 
-## Antenne 
+## Antenne (15/20)
 
 * [TP1 Analyseur de réseau et antenne quart d'onde](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Antennes/TP1_Antenne_LANFREDI_JOSSERON.pdf)
 * [TP2 Rédaction des antennes imprimées](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Antennes/TP2_ANTENNE_LANFREDI_JOSSERON.pdf)
@@ -19,7 +19,7 @@
 * [TP3 Mesure de facteur de bruit](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Compo_RF/TP3_CompoRF_LANFREDI_JOSSERON.pdf)
 * [TP4 Extraction de schéma équivalent à partir de simulations électromagnétiques](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Compo_RF/TP4_CompoRF_LANFREDI_JOSSERON.pdf)
 
-## Systèmes de communication sans fil
+## Systèmes de communication sans fil (16/20)
 
 * [TP1 Caractérisation d'un récepteur FSK](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Syst%C3%A8mes%20de%20communication%20sans%20fil/ThemeA_LANFREDI_JOSSERON.pdf)
 * [TP2 Influence des défauts d’un émetteur/récepteur](https://github.com/Ellimaaac/3A_ESC_RF-HF/blob/main/Syst%C3%A8mes%20de%20communication%20sans%20fil/ThemeB_LANFREDI_JOSSERON.pdf)
