@@ -1,7 +1,7 @@
 # ENSEA - ESC - 2025/2026
 
 ## Quiz Semi-conducteurs + IA Groq + OpenAI
-- [PAGE WEB](https://quizz-comporf-avec-ia-semiconducteur.streamlit.app/) (si le lien ne marche pas/plus : [here](https://github.com/Ellimaaac/3A_ESC_RF-HF/issues/new))
+- [PAGE WEB](https://quizz-comporf-avec-ia-semiconducteur.streamlit.app/) (si le lien ne marche pas/plus, ou autres problemes : [here](https://github.com/Ellimaaac/3A_ESC_RF-HF/issues/new))
 - Application Streamlit pour réviser les cours de composants / semi-conducteurs
 (questions issues des quiz Moodle), avec une IA qui explique les réponses
 
